@@ -1,1 +1,9 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.savvysherpa.t2dandroid.stage",
+    "sha256_cert_fingerprints":
+    ["95:E2:DB:2D:AA:C1:22:25:B0:FA:B0:3E:B3:F9:60:75:A6:D5:5E:C1:1D:58:72:D8:19:37:4C:41:DB:96:90:29"]
+  }
+}]
